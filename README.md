@@ -4,7 +4,7 @@
 
 This is a bare minimum code you will need to make your ui exported file from SquareLine Studio working with your ESP32 board. The main git branch use a ST7789 screen, a GT911 controller for touchscreen on an ALL-IN-ONE yellow board (ESP32-2432S032 capacitive variant).
 
-My screen use a 3.2 inch capacitive TFT screen with a resolution of 320*240.
+My screen is a 3.2 inch capacitive TFT screen with a resolution of 320*240.
 
 You have a lot of information in main.cpp file to help configure this file to your own needs. All comment are in **English and French**.
 
